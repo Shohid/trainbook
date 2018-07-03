@@ -240,7 +240,7 @@ void main()
 void database()
 {
     char *password;
-    char *pass="codewithc";
+    char *pass="train123";
     password=getpass("Enter the admininistrator password:");
     detail a;
     fstream f;
